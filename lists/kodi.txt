@@ -6,38 +6,38 @@ https://archive.org/download/cCloud_20151126/cCloud.mp4
 #EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="*Property of cCloudTV.ORG*" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 09-06-2016 03:24:55 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 09-06-2016 03:24:55 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.org/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 09-06-2016 03:30:12 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 09-06-2016 03:30:12 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.org/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="A&E cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="A&E cCloudTV.ORG" tvg-logo="http://i.imgur.com/OOENI42.jpg" group-title="Top10",A&E cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/QQjD4TzcMqiE2iAXe2Jvug/1473156930/ce425ca32dea0f37b22717ae989bcffb.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/J1phK5ekslElOtZQulCzNA/1473157263/ce425ca32dea0f37b22717ae989bcffb.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="AMC cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="AMC cCloudTV.ORG" tvg-logo="http://i.imgur.com/PJ3OW4C.png" group-title="Top10",AMC cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/6xxqkTfWJHtPGrGa0Rr9iQ/1473157256/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/0dbN8E1g9aqhuFxGRLhvXQ/1473157589/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Cartoon Network cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="Cartoon Network cCloudTV.ORG" tvg-logo="http://i.imgur.com/rdXms87.png" group-title="Top10",Cartoon Network cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/56rkGxFdKr37EbN45MlHLQ/1473157259/720933e62452d65671c676a065c18192.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/8CoJG2maUmeT66pQWfa4dw/1473157269/720933e62452d65671c676a065c18192.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Comedy Central cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="Comedy Central cCloudTV.ORG" tvg-logo="http://i.imgur.com/P5WktnH.gif" group-title="Top10",Comedy Central cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/-TEVQEDAUz49e2KV4u734Q/1473156938/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/7jUA4lQErihvAo1mah5uJQ/1473157595/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Discovery Channel cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel cCloudTV.ORG" tvg-logo="http://i.imgur.com/Y8HHddy.jpg" group-title="Top10",Discovery Channel cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/4rsruYqMLLEEQtS3ihzx4w/1473156940/075d66993151c178df1ed9840202d983.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/Sdg6DsOj661zugFilWU6_Q/1473157274/075d66993151c178df1ed9840202d983.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="ESPN cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="ESPN cCloudTV.ORG" tvg-logo="http://i.imgur.com/tOnK7Bv.jpg" group-title="Top10",ESPN cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/LOyYSf-T9esbdbHMJqejKQ/1473156944/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/covuykBHur7TOpY6MGsi6Q/1473157276/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="History cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="History cCloudTV.ORG" tvg-logo="http://i.imgur.com/qsbJRlP.png" group-title="Top10",History cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/-JzfYulcjHVSh7osSKiObA/1473157269/faec021db59fba9a5129929b7c448c5a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/o93MCbDV8C_YQBhP6VO_QA/1473157602/faec021db59fba9a5129929b7c448c5a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="National Geographic Channel cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="National Geographic Channel cCloudTV.ORG" tvg-logo="http://i.imgur.com/DNrlDoW.jpg" group-title="Top10",National Geographic Channel cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/H_lIA60RlfFnygqGNGo1dQ/1473156947/be2fa358e4f1c9a0ee833aa15f829f81.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/L5ReVf27BrXUVEwk6BE0mg/1473157280/be2fa358e4f1c9a0ee833aa15f829f81.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Nickelodeon cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="Nickelodeon cCloudTV.ORG" tvg-logo="http://i.imgur.com/IcQhTFE.png" group-title="Top10",Nickelodeon cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/wcR-LfH_72_058PQDSiCIA/1473157273/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/UnRMVPTuNiWHPCLpf90vvQ/1473157606/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="The CW Network cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="The CW Network cCloudTV.ORG" tvg-logo="http://i.imgur.com/W0w2sbW.jpg" group-title="Top10",The CW Network cCloudTV.ORG (Top10) (US) (English)
-http://167.114.102.27/live/BeRnlgmhWuEAv7W6pK1agA/1473156952/296e56c668bc8bd6b0044d3e4f034153.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/3ck07DUI8DRzuQ9OuyJILQ/1473157608/296e56c668bc8bd6b0044d3e4f034153.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="24 News" tvg-language="French" tvg-country="FR" tvg-id="24 News" tvg-logo="http://i.imgur.com/VvA12Zz.jpg" group-title="News",24 News (News) (FR) (French)
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
@@ -52,7 +52,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
 http://www.abc.net.au/res/streaming/video/hls/news24.m3u8
 
 #EXTINF:0 tvg-name="ABC" tvg-language="English" tvg-country="US" tvg-id="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/American_Broadcasting_Company_2013_Logo.png/150px-American_Broadcasting_Company_2013_Logo.png" group-title="News",ABC (News) (US) (English)
-http://167.114.102.27/live/OahHvCgnl_O9_Zn6aFwOkA/1473156556/ba354149f3c117ceb69529a1542b6281.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/Fy8SzNPW7mE6WuSd2W3Txg/1473157316/ba354149f3c117ceb69529a1542b6281.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="ABN" tvg-language="Telugu" tvg-country="IN" tvg-id="ABN" tvg-logo="http://www.andhrawishesh.com/Resources/images/TV-Channels/ABN-Andhrajyothi.jpg" group-title="News",ABN (News) (IN) (Telugu)
 https://www.youtube.com/watch?v=QzQnFY6CioA.m3u8
@@ -842,7 +842,7 @@ http://origin2.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183872sd2500
 http://tv.tecnotv.net/live/premium.php?canal=373&profile=3&f=.m3u8
 
 #EXTINF:0 tvg-name="Animal Planet" tvg-language="English" tvg-country="US" tvg-id="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG" group-title="Documentary",Animal Planet (Documentary) (US) (English)
-http://167.114.102.27/live/ob_5Y02oOD--Sl-Kjw0zkw/1473156560/a0f8ddb8c8251a68f136648b32c0f62d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/RPY1uhZ7oY1SA2tQoYfw8Q/1473157320/a0f8ddb8c8251a68f136648b32c0f62d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Aprende TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Aprende TV" tvg-logo="http://i.imgur.com/27onNLM.png" group-title="Documentary",Aprende TV (Documentary) (MX) (Spanish)
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
@@ -884,7 +884,7 @@ rtmp://wms.tecnoxia.com:80/8096//8096
 http://tv.tecnotv.net/live/premium.php?canal=371&profile=3&f=.m3u8
 
 #EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Documentary",Discovery Channel (Documentary) (US) (English)
-http://167.114.102.27/live/9xntll4fWGaUjKfCyrGKMg/1473156562/075d66993151c178df1ed9840202d983.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/L1H3i_yb8ve6KMLDI-AVHw/1473157322/075d66993151c178df1ed9840202d983.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Discovery Civilization" tvg-language="Spanish" tvg-country="MX" tvg-id="Discovery Civilization" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA35OEk5fGSW9U7P7XLKu7bpukXtJD5Vvf_F48RbUt7iwFhpYWsdVAg_A" group-title="Documentary",Discovery Civilization (Documentary) (MX) (Spanish)
 http://tv.tecnotv.net/live/premium.php?canal=382&profile=3&f=.m3u8
@@ -1016,7 +1016,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 rtmp://195.154.188.161/live/ngchd playpath=ngchd swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/national-geographic
 
 #EXTINF:0 tvg-name="National Geographic" tvg-language="English" tvg-country="US" tvg-id="National Geographic" tvg-logo="http://famouslogos.net/images/national-geographic-logo.jpg" group-title="Documentary",National Geographic (Documentary) (US) (English)
-http://167.114.102.27/live/9tZC1FxmcF9eMSQctpBbHw/1473156241/be2fa358e4f1c9a0ee833aa15f829f81.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/mgQmhI0QBcebH96JFHQwdQ/1473157647/be2fa358e4f1c9a0ee833aa15f829f81.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Nithyananda TV Kannada" tvg-language="Kannada/English" tvg-country="IN" tvg-id="Nithyananda TV Kannada" tvg-logo="https://yt3.ggpht.com/-MjFC1Y99Q24/AAAAAAAAAAI/AAAAAAAAAAA/qHf_KqMZSD8/s100-c-k-no/photo.jpg" group-title="Documentary",Nithyananda TV Kannada (Documentary) (IN) (Kannada/English)
 rtmp://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500
@@ -1136,7 +1136,7 @@ http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 http://d2ckk42trw29cy.cloudfront.net/9xmedia/ngrp:9xmusic_all/chunklist_b650000.m3u8
 
 #EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Entertainment",A&E (Entertainment) (US) (English)
-http://167.114.102.27/live/rnXrJtPjypmqyAIQ67HH0g/1473156243/ce425ca32dea0f37b22717ae989bcffb.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/a06GLTlU7-3HBj16FZNK0w/1473157649/ce425ca32dea0f37b22717ae989bcffb.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="ABC HD" tvg-language="English" tvg-country="US" tvg-id="ABC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/220px-American_Broadcasting_Company_Logo.svg.png" group-title="Entertainment",ABC HD (Entertainment) (US) (English)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
@@ -1145,7 +1145,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://tv.tecnotv.net/live/premium.php?canal=444&profile=3&f=.m3u8
 
 #EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Entertainment",AMC (Entertainment) (US) (English)
-http://167.114.102.27/live/jnxFm9U5K6loUNoivJERzQ/1473156568/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/UAZ6CwHUUqKzvUpOexKSOA/1473157328/b06316b29b6c788ecf95287567cb2a3a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="AMG" tvg-language="English" tvg-country="US" tvg-id="AMG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEfcL57AIP51chNh7PE0KJdJZG2EjmUcm7IRf6XRDM3DGZ4ki_b3CnMA" group-title="Entertainment",AMG (Entertainment) (US) (English)
 http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8
@@ -1232,13 +1232,13 @@ http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/btv/as/live/btv_4.m3u8
 http://31.220.41.107:80/LiveEdge/BravoEastUS/chunklist_w1614198516_b1000000.m3u8?token=d6e7485b22dcc1fc31439bdcbf782044
 
 #EXTINF:0 tvg-name="BravoTv" tvg-language="English" tvg-country="US" tvg-id="BravoTv" tvg-logo="https://lh3.googleusercontent.com/-YQVw8uRNszw/AAAAAAAAAAI/AAAAAAAAXX8/4P4EQkgSdFM/s0-c-k-no-ns/photo.jpg" group-title="Entertainment",BravoTv (Entertainment) (US) (English)
-http://167.114.102.27/live/TAiMXGT3QYjZuuO4FkMgZQ/1473157313/582b19f3ef5459a2f139ec69ee2053d0.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/l4DQEZI9ALGAdl-7e01VWw/1473157331/582b19f3ef5459a2f139ec69ee2053d0.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CBS Reality" tvg-language="Russian" tvg-country="UK" tvg-id="CBS Reality" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRg63KYl_GoFFyzQCArQ0-zAzFwwNq9fxUXtzWSAjppmsmRnjn0CEOeXw" group-title="Entertainment",CBS Reality (Entertainment) (UK) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/706/index.m3u8
 
 #EXTINF:0 tvg-name="CBS" tvg-language="US" tvg-country="US" tvg-id="CBS" tvg-logo="https://lh6.googleusercontent.com/-qqKuc6JO_do/AAAAAAAAAAI/AAAAAAAADxg/jYgTrJPFvy8/s0-c-k-no-ns/photo.jpg" group-title="Entertainment",CBS (Entertainment) (US) (US)
-http://167.114.102.27/live/DtBsmlsxgH0KR61qvafkKA/1473156252/4d0fadca2686a2cdd4a4a6623212449c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/vxVBJLggzEgWxM1wh3rbcA/1473157657/4d0fadca2686a2cdd4a4a6623212449c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CNS Channel 6 Guyana" tvg-language="English" tvg-country="GY" tvg-id="CNS Channel 6 Guyana" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScy6OEo52SEBLCOFgnnQVl_ViKvDoupKFTLISp5Sz2U5L2zCZ5zFVXyCE" group-title="Entertainment",CNS Channel 6 Guyana (Entertainment) (GY) (English)
 rtmp://cdbLgf.live.cloud.influxis.com:80/cdbLgf/_definst_/cns6
@@ -1409,7 +1409,7 @@ http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/550/index.m3u8
 
 #EXTINF:0 tvg-name="FOX" tvg-language="English" tvg-country="US" tvg-id="FOX" tvg-logo="http://i.imgur.com/15rP8l3.png" group-title="Entertainment",FOX (Entertainment) (US) (English)
-http://167.114.102.27/live/DZyVsX6SefcHktvQMGGO0Q/1473156578/1cbdb8043b37c7c9ca83582f9218c8b4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/aK3L1QdTVTqq6VyqDgO-bg/1473157335/1cbdb8043b37c7c9ca83582f9218c8b4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="FTV MASTV" tvg-language="Mandarin" tvg-country="CH" tvg-id="FTV MASTV" tvg-logo="http://www.asiasat.com/sites/default/files/mastv_1.png" group-title="Entertainment",FTV MASTV (Entertainment) (CH) (Mandarin)
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
@@ -1418,7 +1418,7 @@ http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
 http://tv.tecnotv.net/live/premium.php?canal=209&profile=3&f=.m3u8
 
 #EXTINF:0 tvg-name="FX" tvg-language="English" tvg-country="US" tvg-id="FX" tvg-logo="http://www.polyvore.com/cgi/img-thing%3F.out%3Djpg%26size%3Dl%26tid%3D66497051" group-title="Entertainment",FX (Entertainment) (US) (English)
-http://167.114.102.27/live/AVp6Gdw8niRaefYdIJtUxw/1473156257/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/GjloluyHlYeElXouSe28EA/1473157337/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Farsi 1 TV" tvg-language="Arabic" tvg-country="IR" tvg-id="Farsi 1 TV" tvg-logo="http://www.satfrequency.com/wp-content/uploads/2015/01/Farsi-1-Sat.jpg" group-title="Entertainment",Farsi 1 TV (Entertainment) (IR) (Arabic)
 http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
@@ -1550,7 +1550,7 @@ rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
 rtmp://213.136.77.5:19990/live//LifeHDNew
 
 #EXTINF:0 tvg-name="Lifetime" tvg-language="English" tvg-country="US" tvg-id="Lifetime" tvg-logo="http://i.imgur.com/g1SNX37.png" group-title="Entertainment",Lifetime (Entertainment) (US) (English)
-http://167.114.102.27/live/Tfl5gNUKCobzcntduWP9mw/1473156582/171879baa092ef14d5ec8f401aeaffcd.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/23QdB7jByR95xe8r-uRnWw/1473157662/171879baa092ef14d5ec8f401aeaffcd.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="M6" tvg-language="French" tvg-country="FR" tvg-id="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/M6-tv-logo.png/286px-M6-tv-logo.png" group-title="Entertainment",M6 (Entertainment) (FR) (French)
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
@@ -1634,7 +1634,7 @@ http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/703/index.m3u8
 
 #EXTINF:0 tvg-name="PBS" tvg-language="English" tvg-country="US" tvg-id="PBS" tvg-logo="https://lh3.googleusercontent.com/-8meSrLqfKbk/AAAAAAAAAAI/AAAAAAAAN90/K6uUKdKQciI/s0-c-k-no-ns/photo.jpg" group-title="Entertainment",PBS (Entertainment) (US) (English)
-http://167.114.102.27/live/hLLzTEadpGfdeR0xljP51Q/1473156589/fe22365235b496368609515523bfb971.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/8JTwE8SPcTShVoLjy6Q_NQ/1473157669/fe22365235b496368609515523bfb971.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Peravia Vision" tvg-language="Spanish" tvg-country="ES" tvg-id="Peravia Vision" tvg-logo="http://dominicaninternet.com/servicios/images/peravia_vision_logo_domint2013.png" group-title="Entertainment",Peravia Vision (Entertainment) (ES) (Spanish)
 http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
@@ -1766,7 +1766,7 @@ http://186.179.169.35/edge/smil:sonytv_iptv.smil/chunklist.m3u8|User-Agent=Mozil
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/121/index.m3u8
 
 #EXTINF:0 tvg-name="Spike TV" tvg-language="English" tvg-country="US" tvg-id="Spike TV" tvg-logo="http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg" group-title="Entertainment",Spike TV (Entertainment) (US) (English)
-http://167.114.102.27/live/_TyHFb4Mk-RUBqJ_53EIqQ/1473156585/744a2e6d638ef5996394717e9e871717.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/SkLwI4ybKlkotjJDFIPcHw/1473157665/744a2e6d638ef5996394717e9e871717.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Star Plus India" tvg-language="Hindi" tvg-country="IN" tvg-id="Star Plus India" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9b/Star_Plus_USA.png" group-title="Entertainment",Star Plus India (Entertainment) (IN) (Hindi)
 http://186.179.169.35/edge/smil:starplus_iptv.smil/chunklist.m3u8
@@ -2264,7 +2264,7 @@ http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/114/index.m3u8
 http://109.111.184.197:4022/udp/239.211.211.30:1234
 
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="English" tvg-country="US" tvg-id="Nickelodeon" tvg-logo="http://www.nick.com/nick-assets/common/nick-logo-200x200.png" group-title="Family",Nickelodeon (Family) (US) (English)
-http://167.114.102.27/live/kNFroccMueT0q9F0ZeFIfg/1473156595/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/_awmzaiFxCwNem74yLTfwQ/1473157675/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Omroep Brabant" tvg-language="English" tvg-country="NL" tvg-id="Omroep Brabant" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRql3vjKu4l39JiBNldnJoWOItdKZ7MXkl46Tf9RYvCit1NmB80KzPZzg" group-title="Family",Omroep Brabant (Family) (NL) (English)
 http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8
@@ -2342,7 +2342,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 http://188.165.135.22/remararg/livestream/playlist.m3u8
 
 #EXTINF:0 tvg-name="Spike Tv" tvg-language="English" tvg-country="US" tvg-id="Spike Tv" tvg-logo="http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg" group-title="Family",Spike Tv (Family) (US) (English)
-http://167.114.102.27/live/psaaNafkx3irMpH33FAnVA/1473156274/744a2e6d638ef5996394717e9e871717.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/ck5t_imzAxyZ2lCorocIaA/1473157353/744a2e6d638ef5996394717e9e871717.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Superene" tvg-language="Spanish" tvg-country="MX" tvg-id="Superene" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Family",Superene (Family) (MX) (Spanish)
 https://ott.streann.com/loadbalancer/services/ip-transport/channels/563d068be4b050ca5a08eadf/playlist.m3u8?token=2525f5d1dwe56rw45118189
@@ -3677,10 +3677,10 @@ http://167.114.102.27/live/ddPv13uxXVgfnIcyeqHKBA/1473157018/7d0db380a5b95a8ba1d
 http://167.114.102.27/live/cinGDE975aAkwfPgcM24zA/1473157020/f970e2767d0cfe75876ea857f92e319b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="American Dad" tvg-language="English" tvg-country="US" tvg-id="American Dad" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/06/3.png" group-title="RandomAirTime 24/7",American Dad (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/2NMY3Vozkb2Ditxlu9zp2w/1473156283/523af537946b79c4f8369ed39ba78605.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/wvViO3gmlYMjOQDWlB1qfw/1473157362/523af537946b79c4f8369ed39ba78605.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Animated Movies" tvg-language="English" tvg-country="US" tvg-id="Animated Movies" tvg-logo="http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg" group-title="RandomAirTime 24/7",Animated Movies (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/Vb8tGUJ2JVa_AbdDAcSaEw/1473157026/7e18e745bf13ed4e73c5e612599b4cf5.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/T3rDWfoB951HZtRiculW-g/1473157690/7e18e745bf13ed4e73c5e612599b4cf5.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Anime Channel" tvg-language="English" tvg-country="US" tvg-id="Anime Channel" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/09/anime-cover-page.png" group-title="RandomAirTime 24/7",Anime Channel (RandomAirTime 24/7) (US) (English)
 http://167.114.102.27/live/zIUXaDTH55rviIy8gY05xw/1473157346/d4fda09f200a7fcb0c05ad251b18d380.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -3695,7 +3695,7 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_05.m3u8
 rtmp://88.198.238.44:1935/live/bluesky
 
 #EXTINF:0 tvg-name="Better Call Saul" tvg-language="English" tvg-country="US" tvg-id="Better Call Saul" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/06/5.png" group-title="RandomAirTime 24/7",Better Call Saul (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/g6Y0ltngVEeKSlml56AbmQ/1473156288/5360af35bde9ebd8f01f492dc059593c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/U293NYrpL9J9K_aLMTEhNQ/1473157368/5360af35bde9ebd8f01f492dc059593c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Bobs Burgers" tvg-language="English" tvg-country="US" tvg-id="Bobs Burgers" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/06/6.png" group-title="RandomAirTime 24/7",Bobs Burgers (RandomAirTime 24/7) (US) (English)
 http://167.114.102.27/live/83aAsbW5Nqu7Mnbpy4EFfw/1473157354/21ad0bd836b90d08f4cf640b4c298e7c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -3704,7 +3704,7 @@ http://167.114.102.27/live/83aAsbW5Nqu7Mnbpy4EFfw/1473157354/21ad0bd836b90d08f4c
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 
 #EXTINF:0 tvg-name="Celebrity Deathmatch" tvg-language="English" tvg-country="US" tvg-id="Celebrity Deathmatch" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/11/celebrity.jpg" group-title="RandomAirTime 24/7",Celebrity Deathmatch (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/Ly7MY3mXNesIIgaLWeBgIQ/1473156290/161747ec4dc9f55f1760195593742232.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/17p1xiURbYqoFjg1jJ6mSw/1473157694/161747ec4dc9f55f1760195593742232.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Channel 1 TV" tvg-language="Farsi" tvg-country="IR" tvg-id="Channel 1 TV" tvg-logo="http://iran-livetv.com/tv/images/channel1.jpg" group-title="RandomAirTime 24/7",Channel 1 TV (RandomAirTime 24/7) (IR) (Farsi)
 http://63.237.48.23/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
@@ -3716,10 +3716,10 @@ http://167.114.102.27/live/2iYmHVcDrGbV6gsKnG9KTA/1473156921/d91af6958918af87d6a
 http://167.114.102.27/live/ag-RsQ9QEiTy0_O2278XgA/1473157356/6fd04bc5b53697040f6f43a3c96d7658.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Community" tvg-language="English" tvg-country="US" tvg-id="Community" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/06/7.png" group-title="RandomAirTime 24/7",Community (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/X_VOA4kGzYnF8T0g5b-TgA/1473156292/820eb5b696ea2a657c0db1e258dc7d81.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/Lud6qB6l0Ds01nrV-AOvkw/1473157372/820eb5b696ea2a657c0db1e258dc7d81.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Curb your Enthusiasm" tvg-language="English" tvg-country="US" tvg-id="Curb your Enthusiasm" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg" group-title="RandomAirTime 24/7",Curb your Enthusiasm (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/sTyFCNEQ9fRF26lq2yjXdg/1473156617/9b5394fd929896fb9e90e26b3d18e63d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/rkzBJl1FrF-cTb2IzpuyGw/1473157374/9b5394fd929896fb9e90e26b3d18e63d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Doctor Who" tvg-language="English" tvg-country="US" tvg-id="Doctor Who" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2016/04/doctor-who.jpg" group-title="RandomAirTime 24/7",Doctor Who (RandomAirTime 24/7) (US) (English)
 http://167.114.102.27/live/Nd00HS4htAlRAJWbJPFk3A/1473157035/c0e67c407905103dbce3984c756f3f21.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -3737,7 +3737,7 @@ http://118965-lh.akamaihd.net/i/etv_live@74820/master.m3u8?b=110-700
 http://167.114.102.27/live/Z7CZrt3Qv-bPRmY41bqDJw/1473157361/3d4044d65abdda407a92991f1300ec97.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Fawlty Towers" tvg-language="English" tvg-country="US" tvg-id="Fawlty Towers" tvg-logo="http://i.imgur.com/aMLX3in.jpg" group-title="RandomAirTime 24/7",Fawlty Towers (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/a7WAvSxG2UzUXvqn8K-1nQ/1473157047/8ab53a2b077535aeefb794db289a9f11.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/LyucO3_37T3IjIhMitHGOw/1473157379/8ab53a2b077535aeefb794db289a9f11.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Frasier" tvg-language="English" tvg-country="US" tvg-id="Frasier" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2016/02/frasier.jpg" group-title="RandomAirTime 24/7",Frasier (RandomAirTime 24/7) (US) (English)
 http://167.114.102.27/live/w0acWXaYOosMNsgrxelpHg/1473156605/c485bb561918025e75545506984d363c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -3764,10 +3764,10 @@ http://167.114.102.27/live/FuPlfupAW80_imN2a58-tA/1473156938/018d4d19ee6a779b041
 http://167.114.102.27/live/v6GZR80hubRK2Tzqw16Zjw/1473156940/fa46ec0b4924e8c2194a53ef61b94039.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Malcolm in the Middle" tvg-language="English" tvg-country="US" tvg-id="Malcolm in the Middle" tvg-logo="http://i.imgur.com/6unOOiz.jpg" group-title="RandomAirTime 24/7",Malcolm in the Middle (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/eduBikkF-gf4MpUHWO_gBA/1473157384/6897191107b1003196abb2efaf0b1e12.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/6qYDe5zrir7DOuRdC4vODQ/1473157709/6897191107b1003196abb2efaf0b1e12.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Married with Children" tvg-language="English" tvg-country="US" tvg-id="Married with Children" tvg-logo="http://i.imgur.com/0gItpt6.jpg" group-title="RandomAirTime 24/7",Married with Children (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/0GKAWqp8lmz2aQ75ietX-g/1473157381/668ada832799cc84747f015346e54eb0.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/dLl_igwCqkodnGh7syv6eA/1473157383/668ada832799cc84747f015346e54eb0.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Movies" tvg-language="English" tvg-country="US" tvg-id="Movies" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/06/16.png" group-title="RandomAirTime 24/7",Movies (RandomAirTime 24/7) (US) (English)
 http://167.114.102.27/live/oNTJPZ3eJbkAV9vRqhyU6w/1473174625/94d035945b3d82182669c4d3f6daa104.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
@@ -3833,13 +3833,13 @@ http://167.114.102.27/live/I6zXfmE9qZ_Taw_vrs-vKQ/1473156664/e77bb02d647edb2099c
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0 tvg-name="Top Gear UK" tvg-language="English" tvg-country="US" tvg-id="Top Gear UK" tvg-logo="http://i.imgur.com/KrJZ9wc.jpg" group-title="RandomAirTime 24/7",Top Gear UK (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/C25RnHMz5hnlS_V9F0f24A/1473157066/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/TRBHgaPFcW0oAZ4K1nIvTw/1473157390/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Trailer Park Boys" tvg-language="English" tvg-country="US" tvg-id="Trailer Park Boys" tvg-logo="https://www.arconaitv.me/wp-content/uploads/2015/11/Trailer-Park-Boys.jpg" group-title="RandomAirTime 24/7",Trailer Park Boys (RandomAirTime 24/7) (US) (English)
 http://167.114.102.27/live/Iy7B-HL3ToTotcswuRguIQ/1473156990/d12d2c37e8c211f096ea78fd159643ba.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Vampire Diaries" tvg-language="English" tvg-country="US" tvg-id="Vampire Diaries" tvg-logo="http://i.imgur.com/9SyHjpn.jpg" group-title="RandomAirTime 24/7",Vampire Diaries (RandomAirTime 24/7) (US) (English)
-http://167.114.102.27/live/NHv3IWqw3UkAYlRTJKuTWQ/1473157396/52b8a5f24dc760714094959c4b5edb0f.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/vO8yVxwgFrPSBQRQaOqOIw/1473157718/52b8a5f24dc760714094959c4b5edb0f.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="WXYZ ABC Detroit" tvg-language="English" tvg-country="US" tvg-id="WXYZ ABC Detroit" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="RandomAirTime 24/7",WXYZ ABC Detroit (RandomAirTime 24/7) (US) (English)
 http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/348k/prog.m3u8?anv=1428346792363&X-Anvato-
@@ -3890,7 +3890,7 @@ http://premium.exabytetv.info/cielos/8677uiuyer--ExabyteTV-NO-PERTENECE-a-Carlos
 http://167.114.102.27/live/Y4aM2rDY0E-EzbXbumX83Q/1473157006/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CBN Sports" tvg-language="English" tvg-country="CA" tvg-id="CBN Sports" tvg-logo="http://sim04.in.com/dc4a3899b2a2929e5078d2d0e5826462_t.jpg" group-title="Sports",CBN Sports (Sports) (CA) (English)
-http://167.114.102.27/live/F4ye5nvDwOvjThzXC9bDyg/1473156276/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/YNPDnXf-mrE_7wzg_sL5Kw/1473157680/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="CDN Sportsmax" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN Sportsmax" tvg-logo="http://i.imgur.com/JGzxhyy.jpg" group-title="Sports",CDN Sportsmax (Sports) (ES) (Spanish)
 http://ip-tv.zz.mu/live.php?kanal=261&user=velimirbl&pass=200200
@@ -3992,7 +3992,7 @@ http://univ-i.akamaihd.net/hls/live/222636/group2/playlist.m3u8
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:0 tvg-name="MUTV" tvg-language="English" tvg-country="UK" tvg-id="MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo_(2).png" group-title="Sports",MUTV (Sports) (UK) (English)
-http://167.114.102.27/live/APYHFyl5QPFOafcLwh6DzQ/1473156604/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/Nq1YL2ksn1k32EdudBKu5w/1473157682/aca0a31d14c85e19f7023c9a3889f37b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 
 #EXTINF:0 tvg-name="Match Igra" tvg-language="Russian" tvg-country="RU" tvg-id="Match Igra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexrlrMT4oV5y4NnBf4SF01wDVApClakJOsjxljtgyIRjBQQOEtYMhkFk" group-title="Sports",Match Igra (Sports) (RU) (Russian)
 http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/529/index.m3u8
